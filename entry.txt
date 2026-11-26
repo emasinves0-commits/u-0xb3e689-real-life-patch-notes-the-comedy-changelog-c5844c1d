@@ -1,0 +1,1 @@
+v8.2.1: fixed a bug where the nose itch would teleport 2cm to the left immediately upon receiving a scratch command from the hand.
